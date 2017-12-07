@@ -1,0 +1,4 @@
+cloneURL: https://github.com/jseely/brigade-hello-world.git
+namespace: default
+project: jseely/brigade-hello-world
+repository: github.com/jseely/brigade-hello-world
